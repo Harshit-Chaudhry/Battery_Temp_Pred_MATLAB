@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🔋 Battery_Temp_Pred_MATLAB
 
 This MATLAB project predicts the battery surface temperature under varying duty cycles and conditions using modeling and image datasets.
