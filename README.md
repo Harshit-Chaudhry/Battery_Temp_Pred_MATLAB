@@ -67,7 +67,7 @@ To build predictive models for battery surface temperature using training datase
 
 Here’s a sample output graph showing temperature prediction:
 
-![Prediction Graph](https://raw.githubusercontent.com/Harshit-Chaudhry/Battery_Temp_Pred_MATLAB/main/assets/sample_plot.png)
+![Prediction Graph](https://raw.githubusercontent.com/Harshit-Chaudhry/Battery_Temp_Pred_MATLAB/c3_15du_new_Images/model_comparison.png)
 
 ---
 
